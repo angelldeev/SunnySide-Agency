@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Code Solution](https://github.com/angelldeev/SunnySide-Agency.git)
+- Live Site URL: [Sunny-side-agency](https://sunny-side-agency-jade.vercel.app/)
 
 ## My process
 
